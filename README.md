@@ -3,6 +3,7 @@ This repository contains  source code of online bookstore
 
 # RUNNING THE APPLICATION
 Prerequisites
+
     Java 17
     Maven 3.x
     Docker and Docker Compose
